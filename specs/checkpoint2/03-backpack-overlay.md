@@ -2,6 +2,8 @@
 
 Score: 1 point
 
+![Alt Text](./Checkpoint2_gifs/Bag.gif)
+
 Prequisite: [Overlay](01-overlay.md), [Setting-Overlay](04-setting-overlay.md)
 No points will be given if your prequisite is not full score!
 

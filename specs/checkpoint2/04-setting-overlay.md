@@ -2,6 +2,8 @@
 
 Score: 1 point
 
+![Alt Text](./Checkpoint2_gifs/Settings.gif)
+
 Prequisite: [Overlay](01-overlay.md), [Setting Components](02-setting-components.md)
 No points will be given if your prequisite is not full score!
 

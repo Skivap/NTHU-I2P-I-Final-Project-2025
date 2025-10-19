@@ -4,6 +4,8 @@ Score: 2 points
 
 Keyword: `[TODO HACKATHON 4]`
 
+![Alt Text](./Checkpoint1_gifs/Collision.gif)
+
 - [ ] Player collides with Collision layer
 - [ ] Player collides with enemies
 

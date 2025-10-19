@@ -2,6 +2,8 @@
 
 Score: 2 point
 
+![Alt Text](./Checkpoint2_gifs/WildPokemon.gif)
+
 - [ ] (0.5 point) Player can interact with bush (either collide or pressing key)
 - [ ] (0.5 point) After interact, player will enter a new scene to catch pokemon
 
