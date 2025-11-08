@@ -10,6 +10,7 @@ Click a link in the Description column to open the detailed spec for each item. 
 - If we detect any plagiarism, you will receive a 0 score for the entire project.
 - If the game crashes when doing specific TODO, you will receive a 0 score for that TODO.
 - Each checkpoint has their own deadline. No points will be given if it exceed the deadline.
+- It's required to use our template, therefore TA can easily grade your project.
 
 ---
 
